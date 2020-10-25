@@ -6,7 +6,7 @@ An example how to to send a email in Spring boot Java.
 
 Find on [Maven central](https://mvnrepository.com/) repository.
 
-	<dependency>
+	        <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
